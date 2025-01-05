@@ -51,7 +51,7 @@ Open the Jupyter Notebook and run the cells to train the Decision Tree Classifie
 The results of the Decision Tree Classifier, including accuracy, precision, recall, and other metrics, are displayed in the notebook. Visualizations of the decision tree and feature importance are also provided.
 
 ## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
+Contributions are welcome! 
 
 ## License
 This project is licensed under the MIT License.
