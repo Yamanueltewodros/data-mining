@@ -7,7 +7,7 @@ This project involves the analysis of accident data using a Decision Tree Classi
 - **Decision Tree Classifier**: A machine learning algorithm used for classification tasks. It splits the data into subsets based on the value of input features, creating a tree-like model of decisions.
 
 
-## Dataset
+## Dataset 
 The dataset used in this project is `preped-data.csv`, which contains the following columns:
 - Region
 - Gender of Victims
