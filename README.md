@@ -1,5 +1,6 @@
 # Data Mining school Project
 
+
 ## Overview
 This project involves the analysis of accident data using a Decision Tree Classifier. The goal is to predict the severity of accidents based on various features such as region, gender of victims, driver education level, and more.
 
